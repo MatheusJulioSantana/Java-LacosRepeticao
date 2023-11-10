@@ -29,7 +29,7 @@ Na construção do Algoritmo, utilize os seguintes conteúdos:<br>
 ![EXERCICIO (5)](https://github.com/MatheusJulioSantana/lacosRepeticao/assets/129356541/bccef4ae-2310-4b1e-9590-5e70ba478bf1)
 Escreva um algoritmo em Java, que leia números inteiros via teclado, até que o número zero seja digitado. Ao final, mostre na tela a soma de todos os números digitados, que sejam positivos.<br>
 Na construção do Algoritmo, utilize os seguintes conteúdos:<br>
-Entrada e Saída de dados
-Operadores
-Laços Condicionais
-Laço de Repetição DO/WHILE
+- Entrada e Saída de dados
+- Operadores
+- Laços Condicionais
+- Laço de Repetição DO/WHILE
